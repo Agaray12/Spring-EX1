@@ -1,0 +1,38 @@
+.formulario-unico{
+    margin: 1em 15%;
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+}
+
+.boton-izquierdo{
+    margin-right: 2rem;
+}
+
+input{
+    text-align: center;
+}
+
+.formulario-libro{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.contenedor-principal-cuerpo{
+    width: 70%;
+}
+
+.entrada-dato{
+    margin-bottom: 1rem;
+}
+
+.entrada-grupo-dato{
+    width: min-content;
+}
+
+.item-nav{
+    margin-left: 2rem;
+}
